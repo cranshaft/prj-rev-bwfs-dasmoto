@@ -1,0 +1,61 @@
+h1
+{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  }
+  .DasmotoImage
+  {
+    background-image: url("./resources/images/pattern.jpeg");
+    height: 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:  cover;
+    position: relative;
+  }
+  .DasmotoText
+  {
+    text-align: center;
+  }
+#Brushes
+{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+#Frames
+{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+#Paints
+{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+p
+{
+  font-family: Helvetica;
+}
+.startprice
+{
+  font-family: Helvetica;
+  color: blue;
+  font-weight: bold;
+}
+#framebold
+{
+  font-family: Helvetica;
+  color: blue;
+  font-weight: bold;
+}
